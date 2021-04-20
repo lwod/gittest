@@ -1,3 +1,4 @@
+
 const methods = require('../src/methods')
 
 test('test sum', ()=>{
